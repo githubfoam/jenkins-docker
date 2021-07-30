@@ -1,4 +1,6 @@
 # jenkins-docker
+[![Ubuntu jenkins docker CI workflow](https://github.com/githubfoam/jenkins-docker/actions/workflows/docker-workflow.yml/badge.svg?branch=main)](https://github.com/githubfoam/jenkins-docker/actions/workflows/docker-workflow.yml)  
+
 ansible role docker jenkins
 ~~~~
 del Vagrantfile
